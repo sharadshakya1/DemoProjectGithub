@@ -15,6 +15,7 @@
 		8434B7362935E9A500783350 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8434B7342935E9A500783350 /* LaunchScreen.storyboard */; };
 		8434B73E2935EC2C00783350 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8434B73D2935EC2C00783350 /* FirstViewController.swift */; };
 		8434B7422935EEF500783350 /* TeacherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8434B7412935EEF500783350 /* TeacherViewController.swift */; };
+		8434B7482935F1BC00783350 /* TeacherFatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8434B7472935F1BC00783350 /* TeacherFatherViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8434B7372935E9A500783350 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8434B73D2935EC2C00783350 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		8434B7412935EEF500783350 /* TeacherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeacherViewController.swift; sourceTree = "<group>"; };
+		8434B7472935F1BC00783350 /* TeacherFatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeacherFatherViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				8434B72D2935E9A400783350 /* ViewController.swift */,
 				8434B73D2935EC2C00783350 /* FirstViewController.swift */,
 				8434B7412935EEF500783350 /* TeacherViewController.swift */,
+				8434B7472935F1BC00783350 /* TeacherFatherViewController.swift */,
 				8434B72F2935E9A400783350 /* Main.storyboard */,
 				8434B7322935E9A500783350 /* Assets.xcassets */,
 				8434B7342935E9A500783350 /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 				8434B7422935EEF500783350 /* TeacherViewController.swift in Sources */,
 				8434B72C2935E9A400783350 /* SceneDelegate.swift in Sources */,
 				8434B73E2935EC2C00783350 /* FirstViewController.swift in Sources */,
+				8434B7482935F1BC00783350 /* TeacherFatherViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
