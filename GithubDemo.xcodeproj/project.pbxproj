@@ -15,6 +15,7 @@
 		8434B7362935E9A500783350 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8434B7342935E9A500783350 /* LaunchScreen.storyboard */; };
 		8434B7402935EC7500783350 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8434B73F2935EC7500783350 /* ThirdViewController.swift */; };
 		8434B7442935EF0900783350 /* StudentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8434B7432935EF0900783350 /* StudentViewController.swift */; };
+		8434B7462935F11400783350 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8434B7452935F11400783350 /* FifthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8434B7372935E9A500783350 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8434B73F2935EC7500783350 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		8434B7432935EF0900783350 /* StudentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentViewController.swift; sourceTree = "<group>"; };
+		8434B7452935F11400783350 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				8434B72D2935E9A400783350 /* ViewController.swift */,
 				8434B73F2935EC7500783350 /* ThirdViewController.swift */,
 				8434B7432935EF0900783350 /* StudentViewController.swift */,
+				8434B7452935F11400783350 /* FifthViewController.swift */,
 				8434B72F2935E9A400783350 /* Main.storyboard */,
 				8434B7322935E9A500783350 /* Assets.xcassets */,
 				8434B7342935E9A500783350 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8434B7462935F11400783350 /* FifthViewController.swift in Sources */,
 				8434B7442935EF0900783350 /* StudentViewController.swift in Sources */,
 				8434B72E2935E9A400783350 /* ViewController.swift in Sources */,
 				8434B72A2935E9A400783350 /* AppDelegate.swift in Sources */,
